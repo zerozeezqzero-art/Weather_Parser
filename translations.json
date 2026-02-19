@@ -1,0 +1,40 @@
+{
+    "Snow": "Снег",
+    "Sunny": "Солнечно",
+    "Clear": "Ясно",
+    "Partly cloudy": "Переменная облачность",
+    "Cloudy": "Облачно",
+    "Overcast": "Пасмурно",
+    
+    "Mist": "Легкий туман",
+    "Fog": "Туман",
+    
+    "Light rain": "Небольшой дождь",
+    "Moderate rain": "Умеренный дождь",
+    "Heavy rain": "Сильный дождь",
+    "Light rain shower": "Небольшой ливень",
+    "Moderate or heavy rain shower": "Умеренный или сильный ливень",
+    "Torrential rain shower": "Проливной дождь",
+    "Patchy rain possible": "Возможен дождь",
+    "Freezing rain": "Ледяной дождь",
+    
+    "Light snow": "Небольшой снег",
+    "Moderate snow": "Умеренный снег",
+    "Heavy snow": "Сильный снегопад",
+    "Light snow showers": "Небольшой снегопад",
+    "Moderate or heavy snow showers": "Умеренный или сильный снегопад",
+    "Patchy snow possible": "Возможен снег",
+    "Blowing snow": "Поземок",
+    "Blizzard": "Метель",
+    
+    "Sleet": "Мокрый снег",
+    "Light sleet": "Небольшой мокрый снег",
+    "Moderate or heavy sleet": "Умеренный или сильный мокрый снег",
+    
+    "Hail": "Град",
+    
+    "Thunderstorm": "Гроза",
+    "Thundery outbreaks possible": "Возможна гроза",
+    "Patchy light rain with thunder": "Местами небольшой дождь с грозой",
+    "Moderate or heavy rain with thunder": "Умеренный или сильный дождь с грозой"
+}
